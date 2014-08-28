@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: commercekit\n"
+"POT-Creation-Date: 2014-08-27 11:59+0100\n"
+"PO-Revision-Date: 2014-08-27 11:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/"
+"plugins/commercekit\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:31
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-order.php:39
+msgid "Order Details"
+msgstr "Dettaglio ordine"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:64
+msgid "Products ordered"
+msgstr "Prodotti ordinati"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:71
+msgid "Name"
+msgstr "Nome"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:72
+msgid "Price each"
+msgstr "Prezzo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:73
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:45
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:353
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:451
+msgid "Quantity"
+msgstr "Quantità"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:107
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:283
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:324
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:118
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:179
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:273
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:335
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:376
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:433
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:467
+msgid "Shipping"
+msgstr "Spedizione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:129
+msgid "Total paid for products"
+msgstr "Totale pagato per i prodotti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:132
+msgid "Including taxes"
+msgstr "Tasse incluse"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:142
+msgid "Total paid including shipping"
+msgstr "Totale pagato incluse spese di spedizione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:152
+msgid "See the order on Stripe"
+msgstr "Vedi l'ordine su Stripe"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:158
+msgid "Client address"
+msgstr "Indirizzo cliente"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:165
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:194
+msgid "First Name"
+msgstr "Nome"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:169
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:196
+msgid "Last Name"
+msgstr "Cognome"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:173
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:200
+msgid "Email"
+msgstr "Email"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:177
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:198
+msgid "Telephone"
+msgstr "Telefono"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:181
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:202
+msgid "Address 1"
+msgstr "Indirizzo 1"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:185
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:204
+msgid "Address 2"
+msgstr "Indirizzo 2"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:189
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:206
+msgid "City"
+msgstr "Città"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:195
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:215
+msgid "ZIP"
+msgstr "CAP"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:199
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:210
+msgid "State"
+msgstr "Stato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:204
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:220
+msgid "Postal Code"
+msgstr "CAP"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:208
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:225
+msgid "Province"
+msgstr "Provincia"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:214
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:375
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:116
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:177
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:271
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:333
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:431
+msgid "Country"
+msgstr "Nazione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:281
+msgid "Ordered by"
+msgstr "Ordinato da"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:282
+msgid "Total amount"
+msgstr "Totale ordine"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-order.php:284
+msgid "Date"
+msgstr "Data"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-product.php:36
+msgid "Product Options"
+msgstr "Opzioni prodotto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-product.php:66
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-product.php:112
+msgid "Price"
+msgstr "Prezzo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-product.php:110
+msgid "Product name"
+msgstr "Nome prodotto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-product.php:111
+msgid "Description"
+msgstr "Descrizione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back-custom-post-type-product.php:113
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:72
+msgid "Category"
+msgstr "Categoria"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:63
+msgid "Trash"
+msgstr "Elimina"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:64
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:70
+msgid "All countries"
+msgstr "Tutte"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:65
+msgid "You must sell to at least 1 country"
+msgstr "Devi vendere in almeno una nazione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:66
+msgid "You must have at least one shipping method"
+msgstr "Devi indicare almeno un metodo di spedizione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:67
+msgid ""
+"Warning: not all countries you sell to have a shipping method assigned. "
+"Those countries will have free shipping unless you add a shipping method to "
+"them."
+msgstr ""
+"Attenzione: non tutte le nazioni a cui si vende hanno un metodo di "
+"spedizione associato. Queste nazioni avranno di conseguenza la spedizione "
+"gratuita fino a che non vi sarà associato un metodo di spedizione."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:68
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:273
+msgid "Except"
+msgstr "Eccetto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:69
+msgid "Applies to"
+msgstr "Applicato a"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:71
+msgid ""
+"This country cannot be added to the exceptions because it is listed in the "
+"allowed countries. First, remove it from there."
+msgstr ""
+"Questa nazione non può essere aggiunta alle eccezioni perchè è elencata "
+"nelle nazioni consentite. Rimuoverla da quell'elenco e riprovare."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:72
+msgid "Product price must be an amount > 0"
+msgstr "Il prezzo del prodotto deve essere una cifra maggiore di 0"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:73
+msgid "All tax rates must have a value"
+msgstr "Tutti i valori di tassazione devono essere compilati"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:206
+msgid "CommerceKit Settings"
+msgstr "Impostazioni di CommerceKit"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:209
+msgid "Settings Saved"
+msgstr "Impostazioni salvate"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:227
+msgid "Currency"
+msgstr "Valuta"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:242
+msgid "Show it before the price"
+msgstr "Mostrala prima del prezzo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:243
+msgid "Show it after the price"
+msgstr "Mostrala dopo il prezzo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:252
+msgid "Stripe API Keys"
+msgstr "Chiave API di Stripe"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:255
+msgid "Secret key"
+msgstr "Chiave segreta"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:258
+msgid "Public key"
+msgstr "Chiave pubblica"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:264
+msgid "Selling"
+msgstr "Vendita"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:268
+msgid "I want to sell to clients that live in those countries:"
+msgstr "Voglio vendere a clienti che abitano nelle seguenti nazioni:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:278
+msgid "Add new"
+msgstr "Aggiungi nuovo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:281
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:305
+msgid "Add an exception"
+msgstr "Aggiungi eccezione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:291
+msgid "Add a country"
+msgstr "Aggiungi una nazione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:297
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:315
+msgid "Add"
+msgstr "Aggiungi"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:309
+msgid ""
+"Useful if you want to enable all countries except a few, or for example an "
+"entire continent except one or two countries."
+msgstr ""
+"Utile se vuoi abilitare tutte le nazioni eccetto alcune, oppure abilitare un "
+"intero continente eccetto una o due nazioni"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:333
+msgid "Option name"
+msgstr "Nome opzione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:334
+msgid "Cost"
+msgstr "Costo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:335
+msgid "Countries"
+msgstr "Nazioni"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:345
+msgid "Add shipping option"
+msgstr "Aggiungi metodo di spedizione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:365
+msgid "All taxes are included in the products prices"
+msgstr "Le tasse sono già incluse nei prezzi dei prodotti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:376
+msgid "Rate"
+msgstr "Costo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:385
+msgid "Add tax rule"
+msgstr "Aggiungi tassa"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/back/commercekit-back.php:406
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-order.php:35
+msgid "Orders"
+msgstr "Ordini"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-order.php:36
+msgid "Order"
+msgstr "Ordine"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-order.php:37
+msgid "No Orders found"
+msgstr "Nessun ordine trovato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-order.php:38
+msgid "Search Orders"
+msgstr "Cerca ordini"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:35
+msgid "Products"
+msgstr "Prodotti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:36
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:44
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:352
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:450
+msgid "Product"
+msgstr "Prodotto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:37
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:38
+msgid "Add New Product"
+msgstr "Aggiungi nuovo prodotto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:39
+msgid "No products found"
+msgstr "Nessun prodotto trovato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:40
+msgid "Search Products"
+msgstr "Cerca prodotti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:41
+msgid "Edit Product"
+msgstr "Modifica prodotto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:42
+msgid "View Product"
+msgstr "Vedi prodotto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/commercekit-custom-post-type-product.php:71
+msgid "Product Categories"
+msgstr "Categorie prodotti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:72
+msgid "Order subtotal"
+msgstr "Totale ordine"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:73
+msgid "View Cart"
+msgstr "Vai al carrello"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:74
+msgid "item in your cart"
+msgstr "prodotto nel carrello"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:75
+msgid "items in your cart"
+msgstr "prodotti nel carrello"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:76
+msgid "Please fill all the required fields"
+msgstr "Per favore, compila tutti i campi richiesti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:77
+msgid "Item added to cart"
+msgstr "Prodotto aggiunto al carrello"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:78
+msgid "Value not acceptable"
+msgstr "Valore non consentito"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:79
+msgid "Sorry, the email is not valid. Did you mean"
+msgstr "Spiacenti, l'email inserita non è corretta. Forse volevi scrivere"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:80
+msgid "Sorry, the email is not valid."
+msgstr "Spiacenti, l'email inserita non è corretta."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/commercekit-front.php:81
+msgid "Payment not successful. Please retry."
+msgstr "Problemi durante il pagamento. Per favore, riprovare."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:33
+msgid "Cart"
+msgstr "Carrello"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:46
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:354
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:452
+msgid "Amount"
+msgstr "Somma"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:57
+msgid "Subtotal"
+msgstr "Subtotale"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:62
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/price.php:49
+msgid "Excluding taxes"
+msgstr "Tasse escluse"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:86
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:148
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:244
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:304
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:402
+msgid "Back"
+msgstr "Indietro"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:89
+msgid "Proceed to checkout"
+msgstr "Vai al checkout"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:117
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:178
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:272
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:334
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:432
+msgid "Address"
+msgstr "Indirizzo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:119
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:180
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:274
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:336
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:434
+msgid "Confirm"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:120
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:181
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:275
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:337
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:435
+msgid "Receipt"
+msgstr "Ricevuta"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:127
+msgid "Choose your country"
+msgstr "Scegli la tua nazione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:151
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:247
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:307
+msgid "Next"
+msgstr "Avanti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:167
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:261
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:323
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:421
+msgid "Checkout"
+msgstr "Checkout"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:188
+msgid "Set your address"
+msgstr "Imposta il tuo indirizzo"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:282
+msgid "Choose the shipping method"
+msgstr "Scegli il metodo di spedizione"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:344
+msgid "You are purchasing"
+msgstr "Stai acquistando"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:369
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:462
+msgid "Taxes"
+msgstr "Tasse"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:381
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:472
+msgid "Total"
+msgstr "Totale"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:404
+msgid "Please wait.."
+msgstr "Attendi per favore.."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:406
+msgid "Proceed to payment"
+msgstr "Procedi con il pagamento"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:442
+msgid "You purchased"
+msgstr "Hai acquistato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/partials/cart.php:493
+msgid "Back to the site"
+msgstr "Torna al sito"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/commercekit/front/templates/single-product.php:118
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#~ msgid "Products List"
+#~ msgstr "Lista Prodotti"
+
+#~ msgid "State/province"
+#~ msgstr "Stato/provincia"
+
+#~ msgid "Belarus"
+#~ msgstr "Bielorussia"
+
+#~ msgid "Belgium"
+#~ msgstr "Belgio"
+
+#, fuzzy
+#~ msgid "Postal code"
+#~ msgstr "CAP"
+
+#~ msgid "Address1"
+#~ msgstr "Indirizzo 1"
+
+#~ msgid "Address2"
+#~ msgstr "Indirizzo 2"
+
+#, fuzzy
+#~ msgid "Last name"
+#~ msgstr "Cognome"
+
+#~ msgid "Phone"
+#~ msgstr "Tel"
+
+#~ msgid "Add an exception."
+#~ msgstr "Aggiungi "
