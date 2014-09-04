@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: commercekit
-Tags: ecommerce, e-commerce
+Tags: ecommerce, e-commerce, store, shop
 Requires at least: 3.4
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 2014.08.28
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

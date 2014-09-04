@@ -3,7 +3,7 @@
 	Plugin Name:    CommerceKit
 	Plugin URI:     wpcommercekit.com
 	Description:    The simplest e-commerce plugin for Wordpress
-	Version:		1.0
+	Version:		2014.08.28
 	Author:			CommerceKit
 	Author URI:		http://wpcommercekit.com
 	License:		GPLv2
